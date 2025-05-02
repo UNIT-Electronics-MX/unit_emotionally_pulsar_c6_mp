@@ -4,9 +4,10 @@
 Unit Emotionally is a MicroPython-based interactive project that combines the **Pulsar C6** development board with an OLED display and an MPU6050 motion sensor to create a cute emotional face that reacts to movement.
 
 When moved gently or harshly, the character reacts with different expressions (happy, angry, sleepy, surprised), shown in real time on a 128x64 OLED screen.
-<div style="width:50%;">
-    <img src="/hardware/resources/AR4606_UNIT_Pulsar_Nano_C6_ESP32C6.jpg" alt="AR4606 UNIT Pulsar Nano C6 ESP32C6" style="width:100%; height:auto;" />
-</div>
+<p align="center">
+
+    <img src="/hardware/resources/AR4606_UNIT_Pulsar_Nano_C6_ESP32C6.jpg" alt="AR4606 UNIT Pulsar Nano C6 ESP32C6" width="500" />
+</p>
 
 ### 🔧 Materials
 
