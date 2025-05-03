@@ -59,7 +59,7 @@ OLED will display cute faces based on the motion detected by the MPU6050!
 ## Result
 
 <p align="center">
-    <img src="/hardware/resources/14.gif" alt="Unit Emotionally" width="500" />
+    <img src="/hardware/resources/14.gif" alt="Unit Emotionally" width="200" />
 </p>
 
 
